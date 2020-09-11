@@ -12,7 +12,7 @@ Add the EA to jamf as a type script.
 
 The EA will return either;
 1. Not tested
-2. Compatible
-3. Not compatible
+2. Supported
+3. Not Supported
 
 This can then be used in reports and smart groups.
